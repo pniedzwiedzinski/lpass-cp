@@ -1,4 +1,7 @@
-<img src="https://cdn.rawgit.com/oh-my-fish/oh-my-fish/e4f1c2e0219a17e2c748b824004c8d0b38055c16/docs/logo.svg" align="left" width="144px" height="144px"/>
+## Do not use this on macOs. On macOs you should use lastpass app with quick search (`shift + cmd + l`) and then copy password with `Cmd+C`
+
+<img src="https://cdn.rawgit.com/oh-my-fish/oh-my-fish/e4f1c2e0219a17e2c748b824004c8d0b38055c16/docs/logo.svg" align="left" 
+width="144px" height="144px"/>
 
 #### lpass-copy
 > A plugin for [Oh My Fish][omf-link].
